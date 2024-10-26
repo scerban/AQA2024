@@ -1,1 +1,2 @@
-hello at this lesson !
+hello at this lesson ! Today we study git !
+
